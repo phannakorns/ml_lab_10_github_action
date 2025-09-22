@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Downloads/Iris%20Species/mlruns/207516510593266916/a0cc4c037aca43c0abed4126d42d3fa7/artifacts
+end_time: 1758557032467
+entry_point_name: ''
+experiment_id: '207516510593266916'
+lifecycle_stage: active
+run_id: a0cc4c037aca43c0abed4126d42d3fa7
+run_name: logistic_regression_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758557024036
+status: 3
+tags: []
+user_id: Lenovo

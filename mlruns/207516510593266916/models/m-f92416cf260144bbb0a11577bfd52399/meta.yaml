@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/Downloads/Iris%20Species/mlruns/207516510593266916/models/m-f92416cf260144bbb0a11577bfd52399/artifacts
+creation_timestamp: 1758557024173
+experiment_id: '207516510593266916'
+last_updated_timestamp: 1758557032081
+model_id: m-f92416cf260144bbb0a11577bfd52399
+model_type: null
+name: iris_classifier_pipeline
+source_run_id: a0cc4c037aca43c0abed4126d42d3fa7
+status: 2
+status_message: null

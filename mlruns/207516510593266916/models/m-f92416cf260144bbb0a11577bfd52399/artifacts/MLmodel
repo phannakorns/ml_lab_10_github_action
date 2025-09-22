@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Lenovo/Downloads/Iris%20Species/mlruns/207516510593266916/models/m-f92416cf260144bbb0a11577bfd52399/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-f92416cf260144bbb0a11577bfd52399
+model_size_bytes: 1476
+model_uuid: m-f92416cf260144bbb0a11577bfd52399
+prompts: null
+run_id: a0cc4c037aca43c0abed4126d42d3fa7
+utc_time_created: '2025-09-22 16:03:44.232578'
