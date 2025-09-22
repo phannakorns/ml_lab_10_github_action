@@ -81,7 +81,7 @@ jobs:
 
     - name: Run Model Training, Evaluation, and Registration
       # ใช้ run_id ที่ได้จาก step ก่อนหน้า
-      run: python scripts/03_train_evaluate_register.py ${{ steps.preprocessing.outputs.run_id }} 10.0
+      run: python scripts/03_train_evaluate_register.py 150a2984af454f13979b3adea77597b9 10.0
 
     - name: Transition Model to Staging
       # เปลี่ยนชื่อโมเดลเป็น 'iris-classifier-prod'
